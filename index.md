@@ -1,5 +1,5 @@
 ---
 layout: default
 ---
-## in the name of god
+## آموزش و آموزش اطلاعات
 
